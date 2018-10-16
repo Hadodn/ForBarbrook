@@ -5,3 +5,10 @@ c:\users\thomas haddon\source\repos\ForBarbrook\ForBarbrook\obj\Debug\ForBarbroo
 c:\users\thomas haddon\source\repos\ForBarbrook\ForBarbrook\obj\Debug\ForBarbrook.csproj.CoreCompileInputs.cache
 c:\users\thomas haddon\source\repos\ForBarbrook\ForBarbrook\obj\Debug\ForBarbrook.exe
 c:\users\thomas haddon\source\repos\ForBarbrook\ForBarbrook\obj\Debug\ForBarbrook.pdb
+C:\Users\Thomas Haddon\Documents\GitHub\ForBarbrook\ForBarbrook\ForBarbrook\bin\Debug\ForBarbrook.exe.config
+C:\Users\Thomas Haddon\Documents\GitHub\ForBarbrook\ForBarbrook\ForBarbrook\bin\Debug\ForBarbrook.exe
+C:\Users\Thomas Haddon\Documents\GitHub\ForBarbrook\ForBarbrook\ForBarbrook\bin\Debug\ForBarbrook.pdb
+C:\Users\Thomas Haddon\Documents\GitHub\ForBarbrook\ForBarbrook\ForBarbrook\obj\Debug\ForBarbrook.csprojAssemblyReference.cache
+C:\Users\Thomas Haddon\Documents\GitHub\ForBarbrook\ForBarbrook\ForBarbrook\obj\Debug\ForBarbrook.csproj.CoreCompileInputs.cache
+C:\Users\Thomas Haddon\Documents\GitHub\ForBarbrook\ForBarbrook\ForBarbrook\obj\Debug\ForBarbrook.exe
+C:\Users\Thomas Haddon\Documents\GitHub\ForBarbrook\ForBarbrook\ForBarbrook\obj\Debug\ForBarbrook.pdb
