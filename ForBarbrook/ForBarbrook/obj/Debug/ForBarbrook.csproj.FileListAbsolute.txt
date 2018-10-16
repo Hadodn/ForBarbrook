@@ -1,0 +1,7 @@
+c:\users\thomas haddon\source\repos\ForBarbrook\ForBarbrook\bin\Debug\ForBarbrook.exe.config
+c:\users\thomas haddon\source\repos\ForBarbrook\ForBarbrook\bin\Debug\ForBarbrook.exe
+c:\users\thomas haddon\source\repos\ForBarbrook\ForBarbrook\bin\Debug\ForBarbrook.pdb
+c:\users\thomas haddon\source\repos\ForBarbrook\ForBarbrook\obj\Debug\ForBarbrook.csprojAssemblyReference.cache
+c:\users\thomas haddon\source\repos\ForBarbrook\ForBarbrook\obj\Debug\ForBarbrook.csproj.CoreCompileInputs.cache
+c:\users\thomas haddon\source\repos\ForBarbrook\ForBarbrook\obj\Debug\ForBarbrook.exe
+c:\users\thomas haddon\source\repos\ForBarbrook\ForBarbrook\obj\Debug\ForBarbrook.pdb
